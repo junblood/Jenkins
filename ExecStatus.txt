@@ -1,5 +1,5 @@
 Baseline:8747
-Update Time:2013-04-20 12:09:12
+Update Time:2013-04-20 13:09:12
 P3_DnM_SWF_ARC6_ADN6_Sonic6_SETUP,Pass
 P3_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Failure
 P3_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Pass
@@ -30,9 +30,11 @@ P3_DnM_SWF_STETHO_SCOPE475_RUN2_DELI,Pass
 P3_PerfoExpress_SWF_PerfoAdressableSwitch_Setup,Pass
 P3_SWF_MDT_PS_PA_Sampling_SETUP,Pass
 P3_SWF_Perfo_Demo_SETUP,Failure
+P3_SWF_Perfo_Demo_ACQ,Pass
 P3_WL_SWF_AITC_HDRS_Dual_SETUP,Pass
 P3_WL_SWF_AITC_HDRS_Dual_ACQ,Pass
 P3_WL_SWF_AITC_HDRS_Dual_DC,Pass
+P3_WL_SWF_CMRT_SETUP,Pass
 P3_WL_SWF_CST_Setup,Pass
 P3_WL_SWF_CST_ACQ,Pass
 P3_WL_SWF_CST_DC,Pass
@@ -168,13 +170,13 @@ P4_WL_SWF_ADTCB_SETUP,Pass
 P4_WL_SWF_ADTCB_ACQ,Pass
 P4_WL_SWF_ADTCB_DC,Pass
 P4_WL_SWF_ZAITE_SETUP,Pass
+P4_WL_SWF_ZAITE_ACQ,Pass
+P4_WL_SWF_ZAITE_DC,Pass
 ,Pass
 ,Failure
 P3_PerfoExpress_SWF_PerfoAdressableSwitch_ACQ,Pending
 P4_SWF_MDT_PS_PA_Sampling_ACQ,Pending
 P3_SWF_MDT_PS_PA_Sampling_DC,Pending
-P3_SWF_Perfo_Demo_ACQ,Pending
-P3_WL_SWF_CMRT_SETUP,Pending
 P4_WL_SWF_CMRT_ACQ,Pending
 P3_WL_SWF_CMRT_DC,Pending
 P3_WL_SWF_DSST_PnS_Stoneley_DC,Pending
@@ -182,5 +184,3 @@ P3_WL_SWF_FSI_ACQ,Pending
 P3_WL_SWF_FSI_DC,Pending
 P3_WL_SWF_FSI_DELI,Pending
 P3_WL_SWF_OBMI_DC,Pending
-P4_WL_SWF_ZAITE_ACQ,Pending
-P4_WL_SWF_ZAITE_DC,Pending
