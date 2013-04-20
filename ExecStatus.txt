@@ -1,5 +1,5 @@
 Baseline:8747
-Update Time:2013-04-20 19:09:10
+Update Time:2013-04-20 20:09:12
 P3_DnM_SWF_ARC6_ADN6_Sonic6_SETUP,Pass
 P3_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Failure
 P3_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Pass
@@ -70,6 +70,7 @@ P3_WL_SWF_FMI_SS_ACQ,Pass
 P3_WL_SWF_FMI_SS_DC,Pass
 P3_WL_SWF_FSI_Setup,Pass
 P3_WL_SWF_FSI_ACQ,Pass
+P3_WL_SWF_FSI_DC,Pass
 P3_WL_SWF_HALS_Setup,Pass
 P3_WL_SWF_HALS_ACQ,Pass
 P3_WL_SWF_HALS_DELI,Pass
@@ -184,5 +185,4 @@ P4_WL_SWF_ZAITE_DC,Pass
 P3_PerfoExpress_SWF_PerfoAdressableSwitch_ACQ,Pending
 P4_SWF_MDT_PS_PA_Sampling_ACQ,Pending
 P3_SWF_MDT_PS_PA_Sampling_DC,Pending
-P3_WL_SWF_FSI_DC,Pending
 P3_WL_SWF_FSI_DELI,Pending
