@@ -1,5 +1,6 @@
 Baseline:8959
-Update Time:2013-07-04 10:45:56
+Update Time:2013-07-04 11:45:48
+2013_WL_SWF_Mirage_Plug_ACQ,Pass
 2013_WL_SWF_WPGRT_Setup,Pass
 2013_WL_SWF_WPGRT_ACQ,Pass
 2013_WL_SWF_WPIT_RUN1_SETUP,Pass
@@ -96,7 +97,6 @@ Update Time:2013-07-04 10:45:56
 2013_WL_SWF_MIFA_SETUP,Pending
 2013_WL_SWF_MIFA_ACQ,Pending
 2013_WL_SWF_Mirage_Plug_Setup,Pending
-2013_WL_SWF_Mirage_Plug_ACQ,Pending
 2013_WL_SWF_Mirage_Shift_Setup,Pending
 2013_WL_SWF_Mirage_Shift_ACQ,Pending
 2013_WL_SWF_MPBT_SETUP,Pending
