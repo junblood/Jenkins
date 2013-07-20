@@ -1,5 +1,5 @@
 Baseline:5.0.12152
-Update Time:2013-07-20 18:47:01
+Update Time:2013-07-20 19:46:56
 2013_DnM_SWF_ARC6_ADN6_Sonic6_SETUP,Pass
 2013_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Failure
 2013_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Pass
@@ -11,6 +11,7 @@ Update Time:2013-07-20 18:47:01
 2013_DnM_SWF_IMPulse_VPWD_ADN_ACQ,Pass
 2013_DnM_SWF_MP3_Setup,Pass
 2013_DnM_SWF_MP3_ACQ,Pass
+2013_DnM_SWF_MP3_ACQ,Failure
 2013_DnM_SWF_MP3_DC,Failure
 2013_DnM_SWF_MP3_DELI,Failure
 2013_DnM_SWF_Periscope_Ecoscope_SetUp,Pass
