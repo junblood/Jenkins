@@ -1,5 +1,5 @@
 Baseline:4.0.9042
-Update Time:2013-08-03 03:46:53
+Update Time:2013-08-03 04:46:51
 2013_DnM_SWF_ARC6_ADN6_Sonic6_SETUP,Pass
 2013_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Failure
 2013_DnM_SWF_ARC6_ADN6_Sonic6_DC,Pass
@@ -28,6 +28,7 @@ Update Time:2013-08-03 03:46:53
 2013_SWF_MDT_PS_PA_Sampling_ACQ,Pass
 2013_SWF_MDT_PS_PA_Sampling_DC,Pass
 2013_SWF_Perfo_Demo_SETUP,Failure
+2013_SWF_Perfo_Demo_SETUP,Pass
 2013_SWF_Perfo_Demo_ACQ,Pass
 2013_WL_SWF_AITC_HDRS_Dual_SETUP,Pass
 2013_WL_SWF_AITC_HDRS_Dual_ACQ,Pass
