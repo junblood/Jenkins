@@ -1,5 +1,5 @@
 Baseline:5.0.12832
-Update Time:2013-08-29 05:46:09
+Update Time:2013-08-29 06:46:10
 2014_DnM_SWF_ARC6_ADN6_Sonic6_SETUP,Pass
 2014_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Failure
 2014_DnM_SWF_ARC6_ADN6_Sonic6_DC,Pass
@@ -27,6 +27,7 @@ Update Time:2013-08-29 05:46:09
 2014_DnM_SWF_STETHO_SCOPE675_RUN2_DELI,Pass
 2014_PerfoExpress_SWF_PerfoAdressableSwitch_Setup,Pass
 2014_PerfoExpress_SWF_PerfoAdressableSwitch_ACQ,Failure
+2014_PerfoExpress_SWF_PerfoAdressableSwitch_ACQ,Pass
 2014_SWF_MDT_PS_PA_Sampling_SETUP,Pass
 2014_SWF_MDT_PS_PA_Sampling_ACQ,Pass
 2014_SWF_MDT_PS_PA_Sampling_DC,Pass
@@ -75,7 +76,9 @@ Update Time:2013-08-29 05:46:09
 2014_WL_SWF_LFA_ACQ,Pass
 2014_WL_SWF_MAST_Setup,Pass
 2014_WL_SWF_MAST_ACQ,Failure
+2014_WL_SWF_MAST_ACQ,Pass
 2014_WL_SWF_MAST_DC,Failure
+2014_WL_SWF_MAST_DC,Pass
 2014_WL_SWF_MDT_SETUP,Pass
 2014_WL_SWF_MDT_ACQ,Failure
 2014_WL_SWF_MDT_DC,Pass
