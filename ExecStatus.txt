@@ -1,5 +1,5 @@
 Baseline:5.0.12937
-Update Time:2013-09-10 09:46:07
+Update Time:2013-09-10 10:46:07
 2014_DnM_SWF_ARC6_ADN6_Sonic6_SETUP,Pass
 2014_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Pass
 2014_DnM_SWF_ARC6_ADN6_Sonic6_DC,Pass
@@ -27,6 +27,7 @@ Update Time:2013-09-10 09:46:07
 2014_PerfoExpress_SWF_PerfoAdressableSwitch_ACQ,Pass
 2014_SWF_MDT_PS_PA_Sampling_SETUP,Pass
 2014_SWF_Perfo_Demo_SETUP,Pass
+2014_SWF_Perfo_Demo_ACQ,Pass
 2014_WL_SWF_AITC_HDRS_Dual_SETUP,Pass
 2014_WL_SWF_AITC_HDRS_Dual_ACQ,Failure
 2014_WL_SWF_AITC_HDRS_Dual_DC,Failure
@@ -207,7 +208,6 @@ Update Time:2013-09-10 09:46:07
 2014_DnM_SWF_MP3_DELI,Pending
 2014_SWF_MDT_PS_PA_Sampling_ACQ,Pending
 2014_SWF_MDT_PS_PA_Sampling_DC,Pending
-2014_SWF_Perfo_Demo_ACQ,Pending
 2014_WL_SWF_FSI_DC,Pending
 2014_WL_SWF_FSI_DELI,Pending
 2014_WL_SWF_MDT_DELI,Pending
