@@ -1,5 +1,5 @@
 Baseline:4.0.9146
-Update Time:2013-09-23 08:45:48
+Update Time:2013-09-23 09:45:53
 2013_DnM_SWF_ARC6_ADN6_Sonic6_SETUP,Pass
 2013_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Pass
 2013_DnM_SWF_ARC6_ADN6_Sonic6_DC,Pass
@@ -24,6 +24,7 @@ Update Time:2013-09-23 08:45:48
 2013_DnM_SWF_STETHO_SCOPE475_RUN2_DELI,Failure
 2013_PerfoExpress_SWF_PerfoAdressableSwitch_Setup,Failure
 2013_PerfoExpress_SWF_PerfoAdressableSwitch_Setup,Pass
+2013_PerfoExpress_SWF_PerfoAdressableSwitch_ACQ,Pass
 2013_SWF_MDT_PS_PA_Sampling_SETUP,Pass
 2013_SWF_MDT_PS_PA_Sampling_ACQ,Pass
 2013_SWF_MDT_PS_PA_Sampling_DC,Pass
@@ -154,6 +155,7 @@ Update Time:2013-09-23 08:45:48
 2013_WL_SWF_XPT_Setup,Pass
 2013_WL_SWF_XPT_ACQ,Failure
 2013_WL_SWF_XPT_DC,Pass
+2013_WL_SWF_XPT_DELI,Pass
 2013_WL_SWF_ADTCB_SETUP,Pass
 2013_WL_SWF_ADTCB_ACQ,Pass
 2013_WL_SWF_ADTCB_DC,Pass
@@ -202,7 +204,6 @@ Update Time:2013-09-23 08:45:48
 2013_DnM_SWF_MP3_ACQ,Pending
 2013_DnM_SWF_MP3_DC,Pending
 2013_DnM_SWF_MP3_DELI,Pending
-2013_PerfoExpress_SWF_PerfoAdressableSwitch_ACQ,Pending
 2013_SWF_Perfo_Demo_SETUP,Pending
 2013_SWF_Perfo_Demo_ACQ,Pending
 2013_WL_SWF_FSI_ACQ,Pending
@@ -215,6 +216,5 @@ Update Time:2013-09-23 08:45:48
 2013_WL_SWF_SLIMACCESS_ACQ,Pending
 2013_WL_SWF_USITE_IBC_DC,Pending
 2013_WL_SWF_USITE_IBC_DELI,Pending
-2013_WL_SWF_XPT_DELI,Pending
 2013_WFWL_WF_TELEMETRY_TOOL_EDTC-B,Pending
 2013_DataCore_SimpleDepthShift_MultiRunWorkflow_OBMTandPEX_Metric,Pending
