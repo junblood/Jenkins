@@ -1,5 +1,5 @@
 Baseline:5.0.13069
-Update Time:2013-09-24 06:45:42
+Update Time:2013-09-24 07:45:42
 2014_DnM_SWF_ARC6_ADN6_Sonic6_SETUP,Pass
 2014_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Pass
 2014_DnM_SWF_ARC6_ADN6_Sonic6_DC,Pass
@@ -108,6 +108,7 @@ Update Time:2013-09-24 06:45:42
 2014_WL_SWF_PSP_DELI,Pass
 2014_WL_SWF_PSPRecorder_Setup,Pass
 2014_WL_SWF_PSPRecorder_DELI,Failure
+2014_WL_SWF_PSPRecorder_DELI,Pass
 2014_WL_SWF_PSPRecorder_ACQ,Pass
 2014_WL_SWF_PSPRecorder_DC,Pass
 2014_WL_SWF_SlimAccess_SETUP,Pass
