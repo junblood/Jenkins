@@ -1,5 +1,5 @@
 Baseline:5.0.13078
-Update Time:2013-09-25 06:46:00
+Update Time:2013-09-25 07:46:00
 2014_DnM_SWF_ARC6_ADN6_Sonic6_SETUP,Pass
 2014_DnM_SWF_ARC6_ADN6_Sonic6_ACQ,Pass
 2014_DnM_SWF_ARC6_ADN6_Sonic6_DC,Pass
@@ -14,6 +14,7 @@ Update Time:2013-09-25 06:46:00
 2014_DnM_SWF_MP3_DELI,Pass
 2014_DnM_SWF_Periscope_Ecoscope_SetUp,Pass
 2014_DnM_SWF_Periscope_Ecoscope_ACQ,Failure
+2014_DnM_SWF_Periscope_Ecoscope_ACQ,Pass
 2014_DnM_SWF_Periscope_Ecoscope_DC,Pass
 2014_DnM_SWF_PUP_MRT_ECO_GVR_SETUP,Pass
 2014_DnM_SWF_PUP_MRT_ECO_GVR_ACQ,Pass
